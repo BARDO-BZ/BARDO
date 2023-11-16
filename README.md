@@ -8,5 +8,5 @@ We are a consultancy working in Madrid and Argentina, providing diverse digital 
 
 If you have an idea and want to start bringing it to life, we assist you in organizing your business and achieving your goals.
 
-*   🌍  We're based in Madrid and Argentina
+*   🌍  We're based in Europe and LatAm
 *   ✉️  You can contact us at [hola@bardo.bz](mailto:hola@bardo.bz)
